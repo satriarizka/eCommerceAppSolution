@@ -4,13 +4,15 @@
 
 # \## 📌 Deskripsi
 
+# 
+
 # \*\*eCommerceAppSolution\*\* adalah aplikasi backend berbasis \*\*.NET 8\*\* yang dikembangkan sebagai bagian dari challenge internship.  
 
 # Aplikasi ini mendemonstrasikan implementasi \*\*CRUD\*\*, \*\*autentikasi JWT\*\*, \*\*testing\*\*, serta \*\*dokumentasi API\*\* menggunakan Swagger.  
 
 # 
 
-# Struktur project menerapkan \*\*Layered Architecture\*\* untuk menjaga kode tetap modular, scalable, dan mudah diuji.
+# Struktur project menerapkan \*\*Layered Architecture\*\* untuk menjaga kode tetap modular, scalable, dan mudah diuji.  
 
 # 
 
@@ -19,6 +21,8 @@
 # 
 
 # \## 🏗️ Arsitektur Project
+
+# 
 
 # Project ini dibagi menjadi \*\*4 layer utama\*\*:
 
@@ -62,7 +66,11 @@
 
 # \## 🎯 Alasan Menggunakan Pattern Ini
 
+# 
+
 # Pattern \*\*Layered Architecture\*\* dipilih dengan alasan:
+
+# 
 
 # \- \*\*Separation of Concerns\*\* → setiap layer punya tanggung jawab jelas, sehingga kode lebih terorganisir.  
 
@@ -74,7 +82,7 @@
 
 # 
 
-# Dengan pendekatan ini, aplikasi menjadi \*\*lebih fleksibel\*\*, \*\*rapi\*\*, dan siap untuk pengembangan jangka panjang.
+# Dengan pendekatan ini, aplikasi menjadi \*\*lebih fleksibel\*\*, \*\*rapi\*\*, dan siap untuk pengembangan jangka panjang.  
 
 # 
 
@@ -83,6 +91,8 @@
 # 
 
 # \## ⚙️ Teknologi yang Digunakan
+
+# 
 
 # \- \*\*.NET 8\*\*  
 
