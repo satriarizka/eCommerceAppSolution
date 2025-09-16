@@ -1,0 +1,61 @@
+2025-09-08 22:12:28.079 +07:00 [INF] Application is building.......
+2025-09-08 22:12:28.667 +07:00 [INF] Application is running.......
+2025-09-08 22:12:28.956 +07:00 [INF] Now listening on: https://localhost:7220
+2025-09-08 22:12:28.960 +07:00 [INF] Now listening on: http://localhost:5117
+2025-09-08 22:12:29.014 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-08 22:12:29.015 +07:00 [INF] Hosting environment: Development
+2025-09-08 22:12:29.017 +07:00 [INF] Content root path: C:\Projects\eCommerceAppSolution\eCommerceApp.Host
+2025-09-08 22:12:29.739 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2025-09-08 22:12:29.998 +07:00 [INF] HTTP GET /swagger/index.html responded 200 in 62.7173 ms
+2025-09-08 22:12:30.006 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 270.8968ms
+2025-09-08 22:12:30.014 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-08 22:12:30.026 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 12.2723ms
+2025-09-08 22:12:30.125 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2025-09-08 22:12:30.185 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 60.1512ms
+2025-09-08 22:12:30.349 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2025-09-08 22:12:30.369 +07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 14.0876 ms
+2025-09-08 22:12:30.374 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 26.3627ms
+2025-09-08 22:15:24.998 +07:00 [INF] Application is building.......
+2025-09-08 22:15:25.371 +07:00 [INF] Application is running.......
+2025-09-08 22:15:25.706 +07:00 [INF] Now listening on: https://localhost:7220
+2025-09-08 22:15:25.710 +07:00 [INF] Now listening on: http://localhost:5117
+2025-09-08 22:15:25.776 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-08 22:15:25.778 +07:00 [INF] Hosting environment: Development
+2025-09-08 22:15:25.779 +07:00 [INF] Content root path: C:\Projects\eCommerceAppSolution\eCommerceApp.Host
+2025-09-08 22:15:26.397 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2025-09-08 22:15:26.582 +07:00 [INF] HTTP GET /swagger/index.html responded 200 in 67.7187 ms
+2025-09-08 22:15:26.595 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 204.474ms
+2025-09-08 22:15:26.739 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-08 22:15:26.739 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2025-09-08 22:15:26.753 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 15.3675ms
+2025-09-08 22:15:26.789 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 50.025ms
+2025-09-08 22:15:26.911 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2025-09-08 22:15:26.929 +07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 13.2754 ms
+2025-09-08 22:15:26.932 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.2527ms
+2025-09-08 22:22:44.210 +07:00 [INF] Application is building.......
+2025-09-08 22:22:45.243 +07:00 [INF] User profile is available. Using 'C:\Users\XksatriaX\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-08 22:22:45.395 +07:00 [INF] Application is running.......
+2025-09-08 22:22:45.631 +07:00 [INF] Now listening on: https://localhost:7220
+2025-09-08 22:22:45.633 +07:00 [INF] Now listening on: http://localhost:5117
+2025-09-08 22:22:45.692 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-08 22:22:45.694 +07:00 [INF] Hosting environment: Development
+2025-09-08 22:22:45.695 +07:00 [INF] Content root path: C:\Projects\eCommerceAppSolution\eCommerceApp.Host
+2025-09-08 22:22:45.900 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2025-09-08 22:27:08.469 +07:00 [INF] Application is building.......
+2025-09-08 22:27:09.084 +07:00 [INF] User profile is available. Using 'C:\Users\XksatriaX\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-08 22:27:09.261 +07:00 [INF] Application is running.......
+2025-09-08 22:27:09.473 +07:00 [INF] Now listening on: https://localhost:7220
+2025-09-08 22:27:09.475 +07:00 [INF] Now listening on: http://localhost:5117
+2025-09-08 22:27:09.524 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-08 22:27:09.526 +07:00 [INF] Hosting environment: Development
+2025-09-08 22:27:09.528 +07:00 [INF] Content root path: C:\Projects\eCommerceAppSolution\eCommerceApp.Host
+2025-09-08 22:27:09.767 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2025-09-08 22:27:09.995 +07:00 [INF] HTTP GET /swagger/index.html responded 200 in 60.9699 ms
+2025-09-08 22:27:10.005 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 241.1962ms
+2025-09-08 22:27:10.156 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2025-09-08 22:27:10.156 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-08 22:27:10.171 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 15.39ms
+2025-09-08 22:27:10.195 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.3013ms
+2025-09-08 22:27:10.310 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2025-09-08 22:27:10.328 +07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 12.6743 ms
+2025-09-08 22:27:10.332 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.7633ms

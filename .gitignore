@@ -1,0 +1,25 @@
+# Build
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Resharper / Rider
+.idea/
+*.DotSettings.user
+
+# OS files
+Thumbs.db
+.DS_Store
+"eCommerceApp.Host/appsettings.json" 
