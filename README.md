@@ -4,13 +4,13 @@
 
 # \## 📌 Deskripsi
 
-# eCommerceAppSolution adalah aplikasi backend berbasis \*\*.NET 8\*\* yang dikembangkan sebagai bagian dari challenge internship.  
+# \*\*eCommerceAppSolution\*\* adalah aplikasi backend berbasis \*\*.NET 8\*\* yang dikembangkan sebagai bagian dari challenge internship.  
 
 # Aplikasi ini mendemonstrasikan implementasi \*\*CRUD\*\*, \*\*autentikasi JWT\*\*, \*\*testing\*\*, serta \*\*dokumentasi API\*\* menggunakan Swagger.  
 
 # 
 
-# Struktur project menerapkan \*\*layered architecture\*\* untuk menjaga kode tetap modular, scalable, dan mudah diuji.
+# Struktur project menerapkan \*\*Layered Architecture\*\* untuk menjaga kode tetap modular, scalable, dan mudah diuji.
 
 # 
 
